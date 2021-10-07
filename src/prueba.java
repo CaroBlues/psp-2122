@@ -1,5 +1,5 @@
 public class prueba {
     public static void main (String[ ] args){
-        System.out.println("Uso git desde intelliji");
+        System.out.println("Uso git desde intellij");
     }
 }
